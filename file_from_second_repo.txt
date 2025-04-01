@@ -1,1 +1,1 @@
-"File from second repo." 
+"Hello from second local repo!" 
